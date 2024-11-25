@@ -14,3 +14,4 @@ C:\Users\jsaracad\OneDrive - Johnson Controls\Desktop\C# Projeler\CSharpEgitimKa
 C:\Users\jsaracad\OneDrive - Johnson Controls\Desktop\C# Projeler\CSharpEgitimKampi301\CSharpEgitimKampi301.EFProject\obj\Debug\CSharpEgitimKampi301.EFProject.exe
 C:\Users\jsaracad\OneDrive - Johnson Controls\Desktop\C# Projeler\CSharpEgitimKampi301\CSharpEgitimKampi301.EFProject\obj\Debug\CSharpEgitimKampi301.EFProject.pdb
 C:\Users\jsaracad\OneDrive - Johnson Controls\Desktop\C# Projeler\CSharpEgitimKampi301\CSharpEgitimKampi301.EFProject\obj\Debug\CSharpEgitimKampi301.EFProject.FrmLocation.resources
+C:\Users\jsaracad\OneDrive - Johnson Controls\Desktop\C# Projeler\CSharpEgitimKampi301\CSharpEgitimKampi301.EFProject\obj\Debug\CSharpEgitimKampi301.EFProject.FrmIstatistic.resources

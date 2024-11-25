@@ -67,6 +67,12 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="FrmIstatistic.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmIstatistic.Designer.cs">
+      <DependentUpon>FrmIstatistic.cs</DependentUpon>
+    </Compile>
     <Compile Include="FrmLocation.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -101,6 +107,9 @@
     </Compile>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmIstatistic.resx">
+      <DependentUpon>FrmIstatistic.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="FrmLocation.resx">
       <DependentUpon>FrmLocation.cs</DependentUpon>
